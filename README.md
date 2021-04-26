@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ambika-Kharvi
 - 👀 I’m interested in Coding in Java and Front End Development
-- 🌱 I’m currently Studying Engineering on Conputer Science 
+- 🌱 I’m currently Studying Engineering in Computer Science 
 - 💞️ I’m looking for a job on Java Coding and Web Development
 - 📫 Reach me at Email - ambikakharvi0329@gmail.com
 
